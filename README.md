@@ -1,2 +1,2 @@
 # python_scripted_stories
-Short Python scripts for learning programming and for easiest life.
+Short Python exercise scripts and for easiest life.
